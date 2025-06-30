@@ -1,0 +1,5 @@
+﻿@SurveyBasket_HostAddress = https://localhost:7259
+
+GET {{SurveyBasket_HostAddress}}/api/polls
+
+###
